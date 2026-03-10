@@ -50,13 +50,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvinhtuong&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="github stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hvinhtuong&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvinhtuong&layout=compact&theme=tokyonight&cache_seconds=1800" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hvinhtuong&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hvinhtuong&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvinhtuong&layout=compact&theme=tokyonight&cache_seconds=86400" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hvinhtuong&theme=tokyonight" alt="streak" />
 </p>
